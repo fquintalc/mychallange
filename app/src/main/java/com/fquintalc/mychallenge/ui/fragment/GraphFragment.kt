@@ -177,9 +177,6 @@ class GraphFragment : Fragment(R.layout.fragment_graph) {
                 }
 
             }
-            lifecycleScope.launch(Dispatchers.Main){
-                Toast.makeText(requireContext(),"actualizando",Toast.LENGTH_SHORT).show()
-            }
 
             loadData(arrayList,chart)
         }

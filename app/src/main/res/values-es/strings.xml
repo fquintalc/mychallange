@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Challenge</string>
+    <string name="label_login">Toque aquí para iniciar:</string>
+    <string name="label_identify">Identifiquese</string>
+    <string name="label_use_your_fingerprint">Use su hiella digital</string>
+    <string name="description_change_prices">Cambios de precios</string>
+    <string name="fingerprint_cancel">Cancelar</string>
+    <string name="fingerprint_state_failure">Su huella no es reconocida</string>
+    <string name="button_login">Inicie sesion con su huella digital</string>
+</resources>
