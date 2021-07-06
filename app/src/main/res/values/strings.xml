@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Challenge</string>
+
+    <!-- labels -->
+    <string name="label_sign_in">Sign In</string>
+    <string name="label_login">Touch here for login:</string>
+    <string name="label_identify">Identify yourself</string>
+    <string name="label_use_your_fingerprint">Use your fingerprint</string>
+
+
+    <!-- Descriptions -->
+    <string name="description_change_prices">Change Prices</string>
+
+    <!-- buttons -->
+    <string name="button_login">Login with fingerprint</string>
+
+
+    <string name="fingerprint_cancel">Cancel</string>
+    <string name="fingerprint_state_failure">Fingerprint is not recognized</string>
+</resources>

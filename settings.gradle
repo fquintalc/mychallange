@@ -1,0 +1,5 @@
+rootProject.name='My Challenge'
+include ':app'
+include ':Models'
+include ':Domain'
+include ':UseCase'
